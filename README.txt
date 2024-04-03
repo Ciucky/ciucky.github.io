@@ -1,4 +1,4 @@
-Portofolio website of Ciucky
+Portofolio website of Andrei Alexandru (Ciucky)
 
 Made using website template Strata from HTML5UP.net
 Strata by HTML5 UP
